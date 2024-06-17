@@ -9,3 +9,6 @@ Currently, two official plugins are available:
 # Weather_Project
 # Demo
    https://weather-pro-d4py.onrender.com/
+# Ouput 
+![Uploading Screenshot 2024-06-17 at 7.55.57 PM.png…]()
+
