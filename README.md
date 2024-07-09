@@ -1,14 +1,9 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # Weather_Project
 # Demo
-   https://weather-pro-d4py.onrender.com/
+  link: https://weather-pro-d4py.onrender.com/
 # Ouput 
-![Uploading Screenshot 2024-06-17 at 7.55.57 PM.png…]()
+
+
+<img width="1440" alt="Screenshot 2024-07-09 at 8 49 54 PM" src="https://github.com/jaychinche/Weather_Project/assets/94739010/e05e9b0c-8412-4435-a929-c8e6df26bede">
 
